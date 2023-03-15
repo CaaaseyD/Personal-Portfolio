@@ -23,7 +23,7 @@ const Contact = () => {
             amazing together.
           </span>
           <span className="sencondaryText">
-            Start by contact me via <span>baimaxsolution@gmail.com</span>
+            Start by contacting me via <span>baimaxsolution@gmail.com</span>
           </span>
         </div>
 
