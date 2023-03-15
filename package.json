@@ -10,7 +10,7 @@
     "dev": "vite",
     "build": "vite build",
     "preview": "vite preview",
-    "start": "serve dist"
+    "start": "vite --port $PORT"
 },
   "dependencies": {
     "framer-motion": "^8.0.2",
