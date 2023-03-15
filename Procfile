@@ -1,1 +1,1 @@
-web: vite run --port $PORT
+web: npm run serve-heroku
