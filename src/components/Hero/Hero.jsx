@@ -21,7 +21,7 @@ const Hero = () => {
             I'm CaseyD.
           </motion.span>
           <motion.span className="secondaryText"variants={fadeIn("left", "tween", 0.4, 1)}>
-            I code for fun, for buiness
+            I code for fun, for business
             <br />
             and for clients{" "}
           </motion.span>
